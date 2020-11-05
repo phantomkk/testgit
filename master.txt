@@ -1,5 +1,7 @@
 master commit 1
 testsdfsdfsdfsdfrtm5fgsdfdfgd54sssdfgsdfcvdffghsdfsdfsdfsdfdfgasdfsdfsdfsdftips:
+
+feature 1 code3
 Send me helpful tips & tricks during evaluation
 Tell me about new product features as they come out
 By submitting this form, I agree that my email address, n
@@ -10,5 +12,9 @@ ces for these purposes in accordance with the JetBrains
 feature1 code
 Privacy Policy. I understand that I can revoke this consent at any time in 
 my profile. In addition, an unsubscribe link is includ
+
 master commit 2
 ed in each email.
+
+ed in each email.
+feature1 code2
